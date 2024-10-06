@@ -1,1 +1,1 @@
-docsify serve site
+docsify serve docs

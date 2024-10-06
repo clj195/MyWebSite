@@ -4,7 +4,8 @@
 
 
 * [如何约绳](doc/subscribe.md)
-
+* [玩法划分](doc/playrule.md)
+* [安全规则](doc/safe.md)
 <!-- * C++
   * [CMake](cxx\Cmake.md)
   *  [cmake_指令记录](cxx\cmake_指令记录.md) 
